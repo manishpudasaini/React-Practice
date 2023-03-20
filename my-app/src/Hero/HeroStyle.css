@@ -1,0 +1,32 @@
+.image{
+    display: flex;
+    padding: 30px;
+}
+#img1{
+    height: 130px;
+    padding: 40px;
+}
+#img2{
+    height: 300px;
+}
+
+#img3{
+    height: 190px;
+    padding: 40px;
+    width: 160px;
+}
+.herocontent{
+    margin-top: 8rem;
+
+}
+.h1{
+    color: #000000;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+
+
+}

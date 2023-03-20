@@ -1,0 +1,31 @@
+.navbar{
+   background: #FFFFFF;
+   box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+   
+}
+
+#logo{
+    position: absolute;
+    left: 4.01%;
+    right: 0.01%;
+    top: 4%;
+    bottom: 0%;
+    
+    width: 99px;
+    height: 40px;
+    border: none;
+
+}
+.content{
+    display: flex;
+    justify-content: end;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: 50px;
+}
+li{
+    padding: 20px;
+    
+}

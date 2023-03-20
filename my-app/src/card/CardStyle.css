@@ -1,0 +1,13 @@
+#cardimg{
+    height: 210px;
+    width: 250px;
+
+}
+
+.cardbox{
+    box-shadow: 20px 10px 8px 10px #888888;
+    width: fit-content;
+    padding: 20px;
+    margin-left: 40px;
+    
+}
